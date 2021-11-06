@@ -1,5 +1,5 @@
-#2. Fix  Docker
-
+#2. Fix und Feature docker file
+>>>>>>> feature-abc-13-Docker
 # Fix einfügen
 
 ARG DOCKER_BASE
